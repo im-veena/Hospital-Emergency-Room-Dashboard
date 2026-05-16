@@ -1,40 +1,56 @@
 # Hospital-Emergency-Room-Dashboard
 Interactive Power BI dashboard for hospital emergency room analytics and patient insights.
 
-🏥 Hospital ER Dashboard (Power BI)
 📌 Overview
+This project is an interactive healthcare analytics dashboard built using Microsoft Power BI to analyze hospital emergency room operations. It provides insights into patient flow, waiting time, admission patterns, and satisfaction levels to support data-driven decision-making in healthcare services.
 
-This project is an interactive Hospital Emergency Room (ER) dashboard built using Microsoft Power BI. It analyzes patient flow, waiting time, admission status, and satisfaction levels to generate healthcare insights.
+🎯 Business Problem
 
-🎯 Objective
-Analyze patient visit trends
-Track average waiting time
-Compare admitted vs non-admitted patients
-Monitor patient satisfaction
-Identify peak ER traffic hours
-🛠 Tools Used
+Hospitals often face challenges in managing emergency room efficiency due to unpredictable patient inflow, long waiting times, and lack of real-time insights. This project addresses these issues through data visualization and analytics.
+
+🎯 Objectives
+Analyze patient arrival patterns and trends
+Measure average waiting time efficiency
+Compare admitted vs non-admitted patient distribution
+Monitor patient satisfaction levels
+Identify peak hours and congestion periods in ER
+
+##🛠 Tools & Technologies
 Microsoft Power BI
-Power Query
-DAX (Data Analysis Expressions)
-Excel
-📊 Key Features
-KPI cards (Patients, Wait Time, Satisfaction Score)
-Admission status analysis
-Time-based trend analysis
-Interactive slicers and filters
-Clean dashboard design
+Power Query (Data Cleaning & Transformation)
+DAX (Data Modeling & Calculations)
+Microsoft Excel (Dataset Source)
+📊 Dashboard Features
+KPI cards for key metrics (Total Patients, Avg Wait Time, Satisfaction Score)
+Admission status breakdown analysis
+Time-series trend analysis of patient visits
+Interactive slicers for dynamic filtering
+Clean and intuitive UI for better readability
 📈 Key Insights
-ER traffic is higher during peak hours
-Majority of patients are not admitted
-Waiting time varies based on load
-Patient satisfaction is moderate
-🚀 How to Use
-
-Open the .pbix file using Microsoft Power BI Desktop and explore the dashboard interactively.
-
-📁 Repository Contents
-Power BI .pbix file
-Dashboard screenshots
+Patient inflow is significantly higher during peak hours
+A large proportion of patients are not admitted after ER visit
+Waiting time varies based on patient load and time of day
+Patient satisfaction levels indicate scope for operational improvement
+📁 Repository Structure
+📦 Hospital-ER-Dashboard
+ ┣ 📊 Hospital_ER_Dashboard.pbix
+ ┣ 🖼️ Dashboard_Screenshots/
+ ┗ 📄 README.md
+🚀 How to Run This Project
+Download the repository
+Open the .pbix file using Microsoft Power BI Desktop
+Explore interactive visuals, filters, and insights
+💡 Impact / Learning Outcome
+Improved understanding of healthcare data analytics
+Hands-on experience with Power BI dashboards
+Strengthened skills in DAX, data modeling, and visualization design
+Learned to convert raw data into actionable insights
 👨‍💻 Author
 
-Vee | Engineering Student | Data Analytics Enthusiast
+Vee
+Engineering Student | Aspiring Data Analyst
+Skills: Power BI | Excel | DAX | Python (Basics)
+
+📌 Note
+
+This project is developed for learning and portfolio purposes to demonstrate data analysis and visualization skills.
